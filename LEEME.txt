@@ -1,7 +1,9 @@
-APP DE LOS 10 AVANCES TECNOLÓGICOS
+APP DE LOS 10 AVANCES TECNOLÓGICOS — VERSIÓN 2
 
-1. Abre index.html para navegar por los temas sin conexión.
-2. La carpeta completa mantiene las imágenes QR y los archivos necesarios.
-3. Para instalarla como app en el celular, publica toda la carpeta en un hosting HTTPS (GitHub Pages, Netlify, etc.) y usa la opción del navegador «Agregar a pantalla de inicio».
-4. Para escanear QR con la cámara usa Chrome en Android compatible, con HTTPS. Hay una alternativa para escribir el texto del código manualmente.
-5. Cada QR codifica «avance:tema», pensado para el lector integrado en esta app; NO es un enlace a internet.
+1. Abre index.html para explorar los 10 temas y sus 4 ámbitos (social, ecológico, cultural y corporal).
+2. En «Códigos QR» cada imagen corresponde exclusivamente al tema que figura en su etiqueta.
+3. En «Escanear QR», mantén el QR enfocado y visible durante 2 segundos continuos. El contador se reinicia si se pierde el QR o se detecta otro distinto.
+4. El lector abre directamente la ficha del avance detectado con todos sus ámbitos, sin filtros ni búsqueda previos.
+5. Para utilizar la cámara, publica toda la carpeta en un hosting HTTPS (por ejemplo, GitHub Pages o Netlify); el lector incorporado requiere un navegador compatible con BarcodeDetector (por ejemplo, algunas versiones de Chrome en Android).
+6. Los QR contienen textos como «avance:fuego», NO enlaces de internet. Se leen desde el escáner incorporado de esta app.
+7. También puedes introducir manualmente el código para abrir la ficha.
