@@ -1,0 +1,1 @@
+{"name": "Los 10 avances tecnológicos", "short_name": "Avances", "start_url": "./index.html", "display": "standalone", "background_color": "#0b1223", "theme_color": "#0b1223", "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png"}]}

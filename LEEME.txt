@@ -1,0 +1,7 @@
+APP DE LOS 10 AVANCES TECNOLÓGICOS
+
+1. Abre index.html para navegar por los temas sin conexión.
+2. La carpeta completa mantiene las imágenes QR y los archivos necesarios.
+3. Para instalarla como app en el celular, publica toda la carpeta en un hosting HTTPS (GitHub Pages, Netlify, etc.) y usa la opción del navegador «Agregar a pantalla de inicio».
+4. Para escanear QR con la cámara usa Chrome en Android compatible, con HTTPS. Hay una alternativa para escribir el texto del código manualmente.
+5. Cada QR codifica «avance:tema», pensado para el lector integrado en esta app; NO es un enlace a internet.
